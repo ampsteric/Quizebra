@@ -1,0 +1,373 @@
+1. Everything in React is a _____________
+ Module
+ Component
+ Package
+ Class
+ View Answer
+Component
+2. In which directory React Components are saved?
+
+ 
+ Inside js/components/
+ Inside vendor/components/
+ Inside external/components/
+ Inside vendor/
+VDO.AI
+
+ View Answer
+Inside js/components/
+3. How many elements does a react component return?
+ 2 Elements
+ 1 Element
+ Multiple Elements
+ None of These
+ View Answer
+Multiple Elements
+4. What is state in React?
+ A persistant storage.
+ An internal data store (object) of a component.
+ View Answer
+An internal data store (object) of a component.
+5. What is Babel?
+ A transpiler.
+ An interpreter
+ A Compiler
+ Both Compiler and Transpilar
+ View Answer
+Both Compiler and Transpilar
+6. What does the "webpack" command do?
+ Transpiles all the Javascript down into one file
+ Runs react local development server.
+ A module bundler
+ View Answer
+Webpack is a module bundler
+7. What port is the default where the webpack-dev-server will run?
+ 3000
+ 8080
+ 3306
+ View Answer
+8080
+8. What is ReactJS?
+ Server side Framework
+ User-interface framework
+ A Library for building interaction interfaces
+ None of These
+ View Answer
+A Library for building interaction interfaces
+9. What are the two ways that data gets handled in React?
+ state & props
+ services & components
+ View Answer
+state & props
+10. In React what is used to pass data to a component from outside?
+ setState
+ render with arguments
+ props
+ PropTypes
+ View Answer
+Props are used to pass data to a component from outside
+11. How can you access the state of a component from inside of a member function?
+ this.getState()
+ this.values
+ this.prototype.stateValue
+ this.state
+ View Answer
+this.values
+12. Props are __________ into other components
+ Methods
+ Injected
+ Both 1 & 2
+ All of the above
+ View Answer
+Methods
+13. What is a react.js in MVC?
+ Middleware
+ Controller
+ Model
+ Router
+ View Answer
+Controller
+14. ReactJS uses _____ to increase performance
+ Original DOM
+ Virtual DOM
+ Both 1 & 2
+ None of above
+ View Answer
+Virtual DOM
+15. Keys are given to a list of elements in react. These keys should be -
+ Do not requires to be unique
+ Unique in the DOM
+ Unique among the siblings only
+ All of the above
+ View Answer
+Unique among the siblings only
+16. Which of the following is the correct data flow sequence of flux concept?
+ Dispatcher->Action->Store->View
+ Action->Dispatcher->View->Store
+ Action->Dispatcher->Store->View
+ Action->Store->Dispatcher->View
+ View Answer
+Action->Dispatcher->Store->View
+17. React.js Covers only the view layer of the app.
+ Yes
+ No
+ View Answer
+Yes
+18. What is the name of React.js Developer ?
+ Jordan mike
+ Jordan Lee
+ Jordan Walke
+ Tim Lee
+ View Answer
+Jordan Walke
+19. Who Develop React.js?
+ Apple
+ Facebook
+ Twitter
+ Google
+ View Answer
+Facebook
+20. .............. helps react for keeping their data unidirectional.
+ JSX
+ Flux
+ Dom
+ Props
+ View Answer
+Flux
+
+
+
+
+
+React is a ________
+
+A.Javascript library
+
+B.Javascript framework
+
+C.Both of above
+
+D.None of above
+
+Explanation
+Correct Option :A.
+ReactJS is a javascript library for building user interfaces. its not a framework
+
+HIDE ANSWER
+ReactJS covers _________
+
+A.User Interface layer in an application
+
+B.Data layer in an application
+
+C.Both a and b
+
+D.None of above
+
+Explanation
+Correct Option :A.
+ReactJS is a javascript library for building user interfaces. it covers only user interface layer of an application
+
+HIDE ANSWER
+ ReactJS uses _____ to increase performance
+
+A.Virtual DOM
+
+B.Original DOM
+
+C.Both of above
+
+D.None of above
+
+Explanation
+Correct Option :A.
+ReactJS uses virtual DOM to increase performance
+
+HIDE ANSWER
+React is _______
+
+A.Component based
+
+B.Module based
+
+C.Both of above
+
+D.None of above
+
+Explanation
+Correct Option :A.
+ReactJS is component based
+
+HIDE ANSWER
+Number of elements, a valid react component can return 
+
+A.1
+
+B.2
+
+C.3
+
+D.4
+
+Explanation
+Correct Option :A.
+in react component we can return only one element
+
+HIDE ANSWER
+State in react is________
+
+A.A permanent storage
+
+B.Internal storage of the component
+
+C.Both of above
+
+D.None of above
+
+Explanation
+Correct Option :B.
+state in react is the storage of component
+
+HIDE ANSWER
+props in react can________
+
+A.Be changed inside the component
+
+B.Not be changed in the component
+
+C.Be changed in side other component
+
+D.None of above
+
+Explanation
+Correct Option :B.
+
+
+
+
+
+
+Q1) What is a controlled input element?
+a) An input element with the controlled flag
+b) An input element whose value is being controlled by a component’s state
+c) An input element that can only accept a list of characters
+d) An input element that is controlled by the value of another input element
+  Q2) What is the declarative way to render a dynamic list of components based on values in an array
+a) Using the reduce array method
+b) With a for/while loop
+c) Using the <Each /> component
+d) Using the Array.map() method
+  Q3) When it is recommended to pass this.setState as a function instead of an object?
+a) When the new state should completely replace the old state
+b) When the new state depends on the old state
+c) When the new state does not depend on the old state
+  Q4) What will happen if you render an input element with disabled = {false}
+a) It will be rendered as enabled
+b) It will be rendered as disabled
+c) It will not be rendered at all
+  Q5) What is a good use case for using a function while rendering a dynamic list of items
+a) If we need to compute a value based on properties of items in the loop.
+b) None. Functions should not be used while rendering a dynamic list.
+c) To make the code shorter
+  Q6) What function can be used to change the state of a React component?y
+a) this.setState
+b) this.changeState
+c) this.State = {}
+  Q7) What is the second argument for setState useful for?
+a) To invoke code after the setState operation is done
+b) To replace the state completely instead of the default merge action
+c) To access the previous state before the setState operation
+  Q8) Which of the following below act as the input of a class-based component?
+a) class and factory
+b) render and mount
+c) props
+ANSWERS
+
+1	B
+2	D
+3	B
+4	A
+5	A
+6	A
+7	A
+8	C
+
+
+
+
+
+
+
+Q1. What kind of component import React from 'react' is?
+
+ stateless component
+ statefull component
+ pure component
+View Answer
+import React from 'react' is a stateless component.
+Q2. What is ReactJS?
+
+ User-interface framework
+ Server-side Framework
+ Both server & Client
+View Answer
+ReactJS is User-interface framework.
+Q3. Which of following is used to pass data to a component from outside?
+
+ PropTypes
+ setState
+ render with arguments
+ props
+View Answer
+Props are used to pass data to a component from outside
+Q4. What function allows you to render React content in an HTML page?
+
+ React.mount()
+ ReactDOM.start()
+ ReactDOM.render()
+ React.render()
+View Answer
+ReactDOM.render() function allows you to render React content in an HTML page
+Q5. React.js was created by
+
+ Jordan Walke
+ Jordan mike
+ Tim Lee
+ Jordan Lee
+View Answer
+React.js was created by Jordan Walke
+Q6. Arbitrary inputs of components in React are called
+
+ Keys
+ Props
+ Elements
+ Ref
+View Answer
+Arbitrary inputs of components in React are called props.
+Q7. What is state in React?
+
+ A persistant storage.
+ An internal data store (object) of a component.
+View Answer
+State in React is an internal data store (object) of a component.
+Q8. For what "webpack" command is used?
+
+ Transpiles all the Javascript down into one file
+ Runs react local development server.
+ A module bundler
+View Answer
+Webpack is a module bundler
+Q9. What create-react-app command do
+
+ Update a react app
+ Creates new react app
+ install dependencies
+View Answer
+create-react-app command is used to create a new react app
+Q10. How many elements does a react component return?
+
+ 1
+ 2
+ Multiple Elements
+View Answer
+A react component can return Multiple Elements

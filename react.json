@@ -1,0 +1,96 @@
+[
+    {
+        
+            "Q.":"Everything in React is a _____________",
+            "A":"Module",
+            "B":"Component",
+            "C":"Package",
+            "D":"Class",
+            "Answer" :"Component"
+    },
+
+    {
+        
+        "Q.":"In which directory React Components are saved?",
+        "A":"Inside js/components/",
+        "B":"Inside vendor/components/",
+        "C":"Inside external/components/",
+        "D":" Inside vendor/",
+        "Answer" :"Inside js/components/"
+},
+
+{
+        
+    "Q.":" How many elements does a react component return?",
+    "A":" 2 Elements",
+    "B":" 1 Element",
+    "C":"None of These",
+    "D":"Multiple Elements",
+    "Answer" :"Multiple Elements"
+},
+
+{
+        
+    "Q.":"  What is state in React?",
+    "A":" A persistant storage.",
+    "B":" An internal data store (object) of a component.",
+   
+    "Answer" :" An internal data store (object) of a component."
+},
+    
+{
+        
+    "Q.":" What is Babel?",
+    "A":" A transpiler.",
+    "B":" An interpreter",
+    "C":" A Compiler",
+    "D":" Both Compiler and Transpilar",
+    "Answer" :" Both Compiler and Transpilar"
+},
+
+{
+        
+    "Q.":" What does the \"webpack\" command do?",
+    "A":"Transpiles all the Javascript down into one file",
+    "B":" Runs react local development server.",
+    "C":" A module bundler",
+    "Answer" :"  A module bundler"
+},
+   
+{
+        
+    "Q.":"  What port is the default where the webpack-dev-server will run?",
+    "A":"3000",
+    "B":"8080",
+    "C":"3306",
+    "Answer" :"8080"
+},
+
+{
+        
+    "Q.":"What is ReactJS?",
+    "A":"Server side Framework",
+    "B":" User-interface framework",
+    "C":" A Library for building interaction interfaces",
+    "Answer" :"A Library for building interaction interfaces"
+},
+
+{
+        
+    "Q.":" What are the two ways that data gets handled in React?",
+    "A":" state & props.",
+    "B":" services & components",
+    "Answer" :"state & props"
+},
+
+{
+        
+    "Q.":" In React what is used to pass data to a component from outside?",
+    "A":"setState",
+    "B":" render with arguments",
+    "C":"props",
+    "D":"PropTypes",
+    "Answer" :"Props are used to pass data to a component from outside"
+}
+
+  ]

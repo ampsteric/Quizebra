@@ -1,0 +1,82 @@
+[
+    {
+       "q": "1. Correct HTML Tag For The Largest Heading Is",
+       "1": " <h6>",
+       "2": " <heading>",
+       "3": " <h1>",
+       "4": " <head>",
+       " View Answer": "<h1>"
+    },
+    {
+       "q": "Which of following is not an attribute of <form> tag",
+       "1": " Action",
+       "2": " Method",
+       "3": " name",
+       "4": " url",
+       " View Answer": "Url is not an attribute of <form> tag"
+    },
+    {
+       "q": " HTML Is A Subset Of",
+       "1": " SGMT",
+       "2": " SGMD",
+       "3": " SGML",
+       "4": " None Of These",
+       " View Answer": "SGML"
+    },
+    {
+       "q": " ALL HTML Tags Are Must Be Enclosed In?",
+       "1": "  ? And !",
+       "2": "  < And >",
+       "3": "  { And }",
+       "4": " # And #",
+       " View Answer": "< And >"
+    },
+    {
+       "q": " The BODY Tag Is Usually Used After",
+       "1": " EM Tag",
+       "2": " TITLE Tag",
+       "3": " HEAD Tag",
+       "4": " HTML Tag",
+       " View Answer": "HTML Tag"
+    },
+    {
+       "q": "Choose The Correct HTML Tag To Make A Text Italic",
+       "1": " <italic>",
+       "2": " <it>",
+       "3": " <i>",
+       "4": " <il>",
+       " View Answer": "<i>"
+    },
+    {
+       "q": "A Much Better Approach To Establish The Base URL Is To Use The ______ Element.",
+       "1": " BODY",
+       "2": "BASE",
+       "3": "HEAD",
+       "4": "None Of The Above",
+       " View Answer": "BASE"
+    },
+    {
+       "q": " Gif And Jpg Are The Two Main Types Of What ?",
+       "1": " Videos",
+       "2": "Images",
+       "3": "None Of The Above",
+       "4": "Animated Effects",
+       " View Answer": "Animated Effects"
+    },
+    {
+       "q": "To Start A List Using Circles, Use",
+       "1": "  <ul Type:\"circle\">",
+       "2": "<ul Type:\"round\">",
+       "3": " <ul :\"round\">",
+       "4": " <ul \"round\">",
+       " View Answer": "<ul \"round\">"
+    },
+    {
+       "q": "Which Is Not A Property Of Attribute Behaviour Of <Marquee> Tag?",
+       "1": " Blur",
+       "2": "Scroll",
+       "3": "Alternate",
+       "4": "Slide",
+       " View Answer": "Alternate"
+    }
+ ]

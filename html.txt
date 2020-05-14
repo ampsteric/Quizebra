@@ -1,0 +1,1118 @@
+1. Correct HTML Tag For The Largest Heading Is
+ <h6>
+ <heading>
+ <h1>
+ <head>
+ View Answer
+<h1>
+2. Which of following is not an attribute of <form> tag
+ Action
+ Method
+ name
+ url
+ View Answer
+Url is not an attribute of <form> tag
+3. HTML Is A Subset Of
+ SGMT
+ SGMD
+ SGML
+ None Of These
+ View Answer
+SGML
+4. ALL HTML Tags Are Must Be Enclosed In?
+ ? And !
+ < And >
+ { And }
+ # And #
+ View Answer
+< And >
+5. The BODY Tag Is Usually Used After
+ EM Tag
+ TITLE Tag
+ HEAD Tag
+ HTML Tag
+ View Answer
+HTML Tag
+6. Choose The Correct HTML Tag To Make A Text Italic
+ <italic>
+ <it>
+ <i>
+ <il>
+ View Answer
+<i>
+7. A Much Better Approach To Establish The Base URL Is To Use The ______ Element.
+ BODY
+ BASE
+ HEAD
+ None Of The Above
+ View Answer
+BASE
+8. Gif And Jpg Are The Two Main Types Of What ?
+ Videos
+ Images
+ None Of The Above
+ Animated Effects
+ View Answer
+Animated Effects
+9. To Start A List Using Circles, Use
+ <ul Type="circle">
+ <ul Type="round">
+ <ul ="round">
+ <ul "round">
+ View Answer
+<ul "round">
+10. Which Is Not A Property Of Attribute Behaviour Of <Marquee> Tag?
+ Blur
+ Scroll
+ Alternate
+ Slide
+ View Answer
+Alternate
+11. A Simple Text File Which Tells The Browser What To Cache Is Known As A ________.
+ Input Files
+ Output Files
+ A Manifest File
+ HTML File
+ View Answer
+HTML File
+12. Which HTML Tag Is ssed to define A Client - Side Script Such as The Javascript?
+ <unscript>
+ <script>
+ Both Above
+ None Of The Above
+ View Answer
+<script>
+13. Which tag is used to create a checkbox in HTML?
+ <checkbox>
+ < Input type = "checkbox">
+ <cb>
+ < Input type = "checkbox">
+ View Answer
+< Input type = "checkbox">
+
+ 
+14. Which attribute sets the text direction as related to lang attribute.
+ Sub
+ Lang
+ Ds
+ Dir
+ View Answer
+Lang
+15. Which html attribute is used to provide an advisory text about an element or Its contents.
+ Dir
+ Title
+ Tooltip
+ None of the above
+ View Answer
+Tooltip
+16. Which Of the following class centers tabs/pills?
+ .nav-justified
+ .nav-stacked
+ .nav Nav-pills
+ .nav.navbar-nav
+ View Answer
+.nav-justified
+17. Which Of The Following Will Create Hamburger Menu?
+ Icon-prev
+ Icon-bar
+ Img-circle
+ Icon-next
+ View Answer
+Icon-bar
+18. Which Of The Following Is For Title Of The Modal?
+ Modal-title
+ Modal-open
+ Modal-lg
+ Modal-sm
+ View Answer
+Modal-title
+19. Which Of The Following Aligns Media Objects?
+ Media
+ Medilist
+ Mediobject
+ Medibody
+ View Answer
+Medibody
+20. Which Of The Following Adds Checkmark Icon Inside Input?
+ Help-block
+ Has-success
+ Has-feedback
+ Has-warning
+ View Answer
+Has-warning
+21. Which Tag Is Used If You Want To Indicate The Importance Of The Phrase?
+ <h1>
+ <em>
+ <strong>
+ <h2>
+ View Answer
+<em>
+22. __________ Is The XML Equivalent To Strict HTML 4.01.
+ XHTML 1.0 Frameset
+ XHTML 1.0 Transitional
+ XHTML 1.0 Strict
+ None Of The Mentioned
+ View Answer
+XHTML 1.0 Strict
+23. Which Of The Following Encoding An XML Parser Assumes ?
+ UTF-16
+ UTF-32
+ UTF-8
+ Both UTF-8 And UTF-32
+ View Answer
+Both UTF-8 And UTF-32
+24. Which Of The Following Will Provide Additional Information About Something?
+ Jumbotron
+ Label
+ Label-danger
+ Item
+ View Answer
+Item
+25. HTML Is What Type Of Language ?
+ Scripting Language
+ Markup Language
+ Programming Language
+ Network Protocol
+ View Answer
+Markup Language
+26. All Elements Are Identified By Their __________ And Are Marked Up Using Either Start Tags And End Tags Or Self-closing Tags
+ Attribute Name
+ Class Name
+ Tag Name
+ None Of The Mention
+ View Answer
+Tag Name
+27. The __________ Element Represents A Span Of Text That Is Isolated From Its Surroundings For The Purposes Of Bidirectional Text Formatting
+ B
+ Bdi
+ Bdo
+ Base
+ View Answer
+Bdi
+28. Which Of The Following Element Marks The Ruby Text Component Of A Ruby Annotation?
+ Rubytxt
+ Ruby
+ Rt
+ R
+ View Answer
+Rt
+29. Apart From <b> Tag, What Other Tag Makes Text Bold ?
+ <emp>
+ <black>
+ <fat>
+ <strong>
+ View Answer
+<strong>
+30. Who Is Known As The Father Of World Wide Web (WWW)?
+ Robert Cailliau
+ Tim Berners-Lee
+ Tim Thompson
+ Charles Darwin
+ View Answer
+Tim Berners-Lee
+31. How Can You Make A Bulleted List With Numbers?
+ <dl>
+ <list>
+ <ol>
+ <ul>
+ View Answer
+<ol>
+32. What Should Be The First Tag In Any HTML Document?
+ <html>
+ <head>
+ <title>
+ <document>
+ View Answer
+<html>
+33. What Tag Is Used To Display A Picture In A HTML Page?
+ Picture
+ Img
+ Src
+ Image
+ View Answer
+Img
+34. HTML Web Pages Can Be Read And Rendered By
+ Compiler
+ Server
+ Web Browser
+ Interpreter
+ View Answer
+Web Browser
+35. HTML Tags Are Surrounded By Which Type Of Brackets.
+ Curly
+ Round
+ Squart
+ Angle
+ View Answer
+Angle
+36. Which Of The Following Attribute Triggers Event When An Element Gets User Input?
+ Ondata
+ Onhaschange
+ Oninput
+ Onloadeddata
+ View Answer
+Oninput
+37. Intensity Of A Color Can Be Described Through
+ Hue
+ Saturation
+ Lightness
+ Grayscale
+ View Answer
+Saturation
+38. How Can You Create An E-mail Link?
+ <a Href="a@b">
+ <mail>a@b</mail>
+ <a Href="mailto:a@b.com">
+ <mail Href="a@b">
+ View Answer
+<a Href="mailto:a@b.com">
+39. What Is The Correct HTML For Creating A Hyperlink?
+ <a Href="http://www.example.com">example</a>
+ <a Name="">A</a>
+ <a Url="http://www.example.com">example</a>
+ <a>B</a>
+ View Answer
+<a Href="http://www.example.com">example</a>
+40. What Is The Correct HTML Tag For Inserting A Line Break?
+ <break />
+ <br />
+ <lb />
+ <nbsp>
+ View Answer
+<br />
+41. Which Are The Objects Used For Storing Data On The Client Provided By The HTML Local Storage?
+ Window.localStorage
+ Window.sessionStorage
+ Window.localSession
+ Both A & B
+ View Answer
+Both A & B
+42. Which HTML Element Is Used To Define The Description Data?
+ <dt>
+ <dd>
+ <li>
+ <dl>
+ View Answer
+<dd>
+43. Which Of The Following Is A Declaration For An HTML Document?
+ <html>.....</html>
+ <!DOCTYPE Html>
+ <body>.....</body>
+ <p>.....</p>
+ View Answer
+<!DOCTYPE Html>
+44. If You Want To Change The Text Colour To Red Which Of The Following Tags Will You Use?
+ < Body Text = Red>
+ < Body Bgcolour = Red>
+ < Body Colour = Red>
+ None Of The Above
+ View Answer
+< Body Text = Red>
+45. HTML Uses
+ Fixed Tags Defined By The Language
+ User Defined Tags
+ Pre-specified Tags
+ Tags Only For Linking
+ View Answer
+Fixed Tags Defined By The Language
+46. Which Element Represents A Control For Generating A Public-private Key Pair?
+ Keygen
+ Ins
+ Key
+ Command
+ View Answer
+Keygen
+47. HTML Links Are Defined With <a> Tag And Address Is Specified By Attribute
+ Href
+ Hlink
+ Src
+ Src-link
+ View Answer
+Href
+
+
+
+
+
+1:  HTML stands for?
+A.	Hyper Text Markup Language
+B.	High Text Markup Language
+C.	Hyper Tabular Markup Language
+D.	None of these
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+2:  
+which of the following tag is used to mark a begining of paragraph ?
+
+A.	
+<TD>
+
+B.	
+<br>
+
+C.	
+<P>
+
+D.	
+<TR>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+3:  
+From which tag descriptive list starts ?
+
+A.	
+<LL>
+
+B.	
+<DD>
+
+C.	
+<DL>
+
+D.	
+<DS>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+
+ 
+4:  
+Correct HTML tag for the largest heading is
+
+A.	
+<head>
+
+B.	
+<h6>
+
+C.	
+<heading>
+
+D.	
+<h1>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: D
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+5:  
+The attribute of <form> tag
+
+A.	
+Method
+
+B.	
+Action
+
+C.	
+Both (a)&(b)
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+6:  
+Markup tags tell the web browser
+
+A.	
+How to organise the page
+
+B.	
+How to display the page
+
+C.	
+How to display message box on page
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+7:  
+www is based on which model?
+
+A.	
+Local-server
+
+B.	
+Client-server
+
+C.	
+3-tier
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+8:  
+What are Empty elements and is it valid?
+
+A.	
+No, there is no such terms as Empty Element
+
+B.	
+Empty elements are element with no data
+
+C.	
+No, it is not valid to use Empty Element
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+
+ 
+9:  
+Which of the following attributes of text box control allow to limit the maximum character?
+
+A.	
+size
+
+B.	
+len
+
+C.	
+maxlength
+
+D.	
+all of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+10:  
+Web pages starts with which ofthe following tag?
+
+A.	
+<Body>
+
+B.	
+<Title>
+
+C.	
+<HTML>
+
+D.	
+<Form>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+
+
+
+
+
+16:  
+From which tag the descriptive list starts?
+
+A.	
+<LL>
+
+B.	
+<DD>
+
+C.	
+<DL>
+
+D.	
+<DS>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+17:  
+Correct HTML to left align the content inside a table cell is
+
+A.	
+<tdleft>
+
+B.	
+<td raligh = "left" >
+
+C.	
+<td align = "left">
+
+D.	
+<td leftalign>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+18:  
+The tag which allows you to rest other HTML tags within the description is
+
+A.	
+<TH>
+
+B.	
+<TD>
+
+C.	
+<TR>
+
+D.	
+<CAPTION>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: D
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+
+ 
+19:  
+<Base> tag is designed to appear only between
+
+A.	
+<HEAD>
+
+B.	
+<TITLE>
+
+C.	
+<BODY>
+
+D.	
+<FORM>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+20:  
+How can you open a link in a new browser window?
+
+A.	
+< a href = "url" target = "new">
+
+B.	
+<a href = "url" target= "_blank">
+
+C.	
+<a href = "url".new>
+
+D.	
+<a href = "url" target ="open">
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+
+
+21:  
+A much better approach to establish the base URL is to use
+
+A.	
+BASE element
+
+B.	
+HEAD element
+
+C.	
+both (a) and (b)
+
+D.	
+none of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+22:  
+The tag used to create a new list item and also include a hyperlink is
+
+A.	
+<LI>
+
+B.	
+<DL>
+
+C.	
+<DD>
+
+D.	
+<UL>
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+23:  
+Can the element <First> be replaced with <first>
+
+A.	
+No, they represent different elements altogether
+
+B.	
+Both are same
+
+C.	
+First is correct only
+
+D.	first is only correct
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+Explanation :
+
+Tag names for HTML elements may be written with any mix of lowercase and uppercase letters that are a case-insensitive match for the names of the elements given in the HTML elements section of this document; that is, tag names are case-insensitive.
+
+Click on Discuss to view users comments.
+
+
+ 
+24:  
+Any part of the graphic that is not included in another hot zone is considered to be part of
+
+A.	
+rect
+
+B.	
+point
+
+C.	
+default
+
+D.	
+polygon
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+25:  
+Which of the tag is used to creates a number list?
+
+A.	
+<LI>
+
+B.	
+<OL>
+
+C.	
+<LI> and <OL>
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+
+
+
+26:  
+<INPUT> is
+
+A.	
+format tag
+
+B.	
+empty tag
+
+C.	
+both (a) and (b)
+
+D.	
+none of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+27:  
+The map definition file is generally stored in
+
+A.	
+CGI-BIN
+
+B.	
+RECYCLE-BIN
+
+C.	
+BIN
+
+D.	
+All of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+28:  
+The latest HTML standard is
+
+A.	
+XML
+
+B.	
+SGML
+
+C.	
+HTML 4.0
+
+D.	
+HTML 5.0
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: D
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+
+ 
+29:  
+The tag used to create a hypertext relationship between current document and another URL is
+
+A.	
+<ISINDEX>
+
+B.	
+<A>
+
+C.	
+<LINK>
+
+D.	
+none of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+30:  
+The text inside the <TEXT AREA> tag works like
+
+A.	
+<P> formatted text
+
+B.	
+<T> formatted text
+
+C.	
+<PRE> formatted text
+
+D.	
+none of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+
+
+31:  
+What i s the correct HTML for adding a background color?
+
+A.	
+<background>yellow<Background>
+
+B.	
+<body color = "yellow">
+
+C.	
+<body bg color = "yellow">
+
+D.	
+<body bg ="yellow">
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: C
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+32:  
+Main container for <TR>, <TD> and <TH> is
+
+A.	
+<TABLE>
+
+B.	
+<GROUP>
+
+C.	
+<DATA>
+
+D.	
+All of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+33:  
+The body tag usually used after
+
+A.	
+Title tag
+
+B.	
+HEAD tag
+
+C.	
+EM tag
+
+D.	
+FORM tag
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+
+ 
+34:  
+How can you make an e-mail link?
+
+A.	
+<mail href +"xxx@y.com">
+
+B.	
+<a href ="mail to: xxx@y.com">
+
+C.	
+<a href = "xxx@y.com">
+
+D.	
+Both (b) and (c)
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+35:  
+Which tag creates a number/order list?
+
+A.	
+<UL>
+
+B.	
+<OL>
+
+C.	
+<OT>
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: B
+
+
+36:  
+Symbol used at the beginning of the HREF text is
+
+A.	
+#
+
+B.	
+$
+
+C.	
+&
+
+D.	
+^
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+37:  
+Which of the following is a Valid Name?
+
+A.	
+<_person>
+
+B.	
+<123 person>
+
+C.	
+Both (a) and (b)
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+Click on Discuss to view users comments.
+
+38:  
+The web standard allows programmers on many different computer platforms to dispersed format and display the information server. These programs are called
+
+A.	
+Web Browsers
+
+B.	
+HTML
+
+C.	
+Internet Explorer
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A

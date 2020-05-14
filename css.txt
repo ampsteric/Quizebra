@@ -1,0 +1,445 @@
+Q.	
+If we want define style for an unique element, then which css selector will we use ?
+A.IdB.text
+C.classD.name
+Answer : Id [Option : A]
+
+
+
+Q.	
+If we don't want to allow a floating div to the left side of an element, which css property will we use ?
+A.marginB.clear
+C.floatD.padding
+Answer : clear [Option : B]
+
+
+
+Q.	
+Suppose we want to arragnge five nos. of DIVs so that DIV4 is placed above DIV1. Now, which css property will we use to control the order of stack?
+A.d-indexB.s-index
+C.x-indexD.z-index
+Answer : z-index [Option : D]
+
+
+
+Q.	
+Can we align a Block element by setting the left and right margins ?
+A.Yes, we canB.Not Possible
+Answer : Not Possible [Option : B]
+
+
+
+Q.	
+If we want to wrap a block of text around an image, which css property will we use ?
+A.wrapB.push
+C.floatD.align
+Answer : float [Option : C]
+
+
+
+Q.	
+Can we define the text direction via css property ?
+A.Yes, we canB.No, we can't
+Answer : Yes, we can [Option : A]
+
+
+
+Q.	
+Is it possible to declare font-weight, font-face & font-size by using ONLY ONE css propery ?
+A.Yes, it's possibleB.No, not possible
+Answer : Yes, it's possible [Option : A]
+
+
+
+Q.	
+If we want to show an Arrow as cursor, then which value we will use ?
+A.pointerB.default
+C.arrowD.arr
+Answer : default [Option : B]
+
+
+
+Q.	
+If we want to use a nice looking green dotted border around an image, which css property will we use?
+A.border-colorB.border-decoration
+C.border-styleD.border-line
+Answer : border-style [Option : C]
+
+
+
+Q.	
+Which of the following properties will we use to display border around a cell without any content ?
+A.empty-cellB.blank-cell
+C.noncontent-cellD.void-cell
+Answer : empty-cell [Option : A]
+
+
+
+Q.	
+What should be the table width, so that the width of a table adjust to the current width of the browser window?
+A.640 pixelsB.100%
+C.full-screenD.1024 px
+Answer : 100% [Option : B]
+
+
+
+Q.	
+Which element is used in the <HEAD> section on an HTML / XHTMLpage, if we want to use an external style sheet file to decorate the page ?
+A.<src>B.<link>
+C.<style>D.<css>
+Answer : <link> [Option : B]
+
+
+
+Q.	
+Which attribute can be added to many HTML / XHTML elements to identify them as a member of a specific group ?
+A.IdB.div
+C.classD.span
+Answer : class [Option : C]
+
+
+
+Q.	
+When we write <img src="img.png">, what "img.png" inside double quote implies?
+A.elementB.attribute
+C.valueD.operator
+Answer : value [Option : C]
+
+
+
+Q.	
+How can we write comment along with CSS code ?
+A./* a comment */B.// a comment //
+C./ a comment /D.<' a comment'>
+Answer : /* a comment */ [Option : A]
+
+
+
+
+Q.	
+Which css property you will use if you want to add some margin between a DIV's border and its inner text ?
+A.spacingB.margin
+C.paddingD.inner-margin
+Answer : padding [Option : C]
+
+
+
+Q.	
+Which CSS property is used to control the text size of an element ?
+A.font-styleB.text-size
+C.font-sizeD.text-style
+Answer : font-size [Option : C]
+
+
+
+Q.	
+The default value of "position" attribute is _________.
+A.fixedB.absolute
+C.inheritD.relative
+Answer : relative [Option : D]
+
+
+
+Q.	
+How will you make all paragraph elements 'RED' in color ?
+A.p.all {color: red;}B.p.all {color: #990000;}
+C.all.p {color: #998877;}D.p {color: red;}
+Answer : p {color: red;} [Option : D]
+
+
+
+Q.	
+By default Hyperlinks are displayed with an underline. How do you remove the underline from all hyperlinks by using CSS code ?
+A.a {text: no-underline;}B.a {text-decoration:none;}
+C.a {text-style: no-underline;}D.a {text-decoration: no-underline;}
+Answer : a {text-decoration:none;} [Option : B]
+
+
+
+
+Q 1 - Which of the following selector matches a element based on its id?
+
+A - The Id Selector
+
+B - The Universal Selector
+
+C - The Descendant Selector
+
+D - The Class Selector
+
+Answer : A
+Explanation
+The Id Selector matches a element based on its id attribute.
+
+Q 2 - Which of the following selector selects all paragraph elements whose lang attribute contains values that are exactly "fr", or begin with "fr-"?
+
+A - p[lang]
+
+B - p[lang="fr"]
+
+C - p[lang~="fr"]
+
+D - p[lang|="fr"]
+
+Answer : D
+Explanation
+p[lang|="fr"] − Selects all paragraph elements whose lang attribute contains values that are exactly "fr", or begin with "fr-".
+
+Q 3 - Which of the following uses 1vw or 1vh, whichever is smaller?
+
+A - px
+
+B - vh
+
+C - vw
+
+D - vmin
+
+Answer : D
+Explanation
+vmin − 1vw or 1vh, whichever is smaller.
+
+Q 4 - Which of the following property is used to set the background color of an element?
+
+A - background-color
+
+B - background-image
+
+C - background-repeat
+
+D - background-position
+
+Answer : A
+Explanation
+The background-color property is used to set the background color of an element.
+
+Q 5 - Which of the following property is used as shorthand to specify a number of other font properties?
+
+A - font-size
+
+B - font
+
+C - font-variant
+
+D - font-weight
+
+Answer : B
+Explanation
+The font property is used as shorthand to specify a number of other font properties.
+
+Q 6 - Which of the following property is used to set the height of an image?
+
+A - border
+
+B - height
+
+C - width
+
+D - -moz-opacity
+
+Answer : B
+Explanation
+The height property is used to set the height of an image.
+
+Q 7 - Which of the following property specifies whether a border should be solid, dashed line, double line, or one of the other possible values?
+
+A - :border-color
+
+B - :border-style
+
+C - :border-width
+
+D - :border-bottom-color
+
+Answer : B
+Explanation
+The border-style specifies whether a border should be solid, dashed line, double line, or one of the other possible values.
+
+Q 8 - Which of the following property changes the style of top border?
+
+A - :border-bottom-style
+
+B - :border-top-style
+
+C - :border-left-style
+
+D - :border-right-style
+
+Answer : B
+Explanation
+The border-top-style changes the style of top border.
+
+Q 9 - Which of the following property changes the width of right border?
+
+A - :border-bottom-width
+
+B - :border-top-width
+
+C - :border-left-width
+
+D - :border-right-width
+
+Answer : D
+Explanation
+The border-right-width changes the width of right border.
+
+Q 10 - Which of the following property serves as shorthand for the padding properties?
+
+A - padding
+
+B - padding-top
+
+C - padding-left
+
+D - padding-right
+
+Answer : A
+Explanation
+The padding serves as shorthand for the preceding properties.
+
+
+
+
+1. Pseudo-classes In CSS
+ Match A Specified Element
+ Select The Active Links
+ Are Used To Select All The Visited Links
+ Are Used To Define A Special State Of An Element
+ View Answer
+Are Used To Define A Special State Of An Element
+2. Which Event Will Be Used When A Connection To The Server Is Opened.
+
+ 
+ Onmessage
+ Onopen
+ Onerror
+ None Of The Above
+ View Answer
+Onopen
+3. Which Is The Correct CSS Syntax?
+ Body:color=black
+ {body;color:black}
+ {body:color=black(body}
+ Body {color: Black}
+ View Answer
+Body {color: Black}
+4. Which CSS Property Is Used For Controlling The Layout?
+ Header
+ Footer
+ Display
+ None Of The Above
+ View Answer
+Display
+5. Which CSS Property Sets A Background Image For An Element?
+ Background - Color
+ Background - Image
+ Background - Attachment
+ None of These
+ View Answer
+Background - Image
+6. Which Of The Following Properties Will We Use To Display Border Around A Cell Without Any Content ?
+ Noncontent-cell
+ Blank-cell
+ Empty-cell
+ Void-cell
+ View Answer
+Empty-cell
+7. What Should Be The Table Width, So That The Width Of A Table Adjust To The Current Width Of The Browser Window?
+ 640 Pixels
+ 100.00%
+ Full-screen
+ 1024 Px
+ View Answer
+100.00%
+8. How Can We Write Comment Along With CSS Code ?
+ / A Comment /
+ // A Comment //
+ /* A Comment */
+ <' A Comment'>
+ View Answer
+/* A Comment */
+9. Which CSS Property Is Used To Control The Text Size Of An Element ?
+ Font-style
+ Font-size
+ Text-size
+ Text-style
+ View Answer
+Font-size
+10. The Default Value Of "position" Attribute Is
+ Fixed
+ Absolute
+ Inherit
+ Static
+ View Answer
+Static
+11. Which Of The Following Selector Selects All Elements Of E That Have The Attribute Attr That End With The Given Value?
+ E[attr^=value]
+ E[attr$=value]
+ E[attr*=value]
+ None Of The Mentioned
+ View Answer
+E[attr$=value]
+12. Which Of The Following Selector Selects The Elements That Are Checked?
+ E ~ F
+ ::after
+ :checked
+ None Of The Mentioned
+ View Answer
+:checked
+13. Which Of The Following Selector Selects An Element That Has No Children?
+ :nochild
+ :empty
+ :inheritance
+ :no-child
+ View Answer
+:empty
+14. Which Of The Following Selector Selects An Element If It's The Only Child Of Its Parent?
+ :nth-oftype(n)
+ :only-child
+ :root
+ None Of The Mentioned
+ View Answer
+:only-child
+15. What Is CSS Stand For
+ Cascading Style Sheets
+ Cascade Style Sheet
+ Color Style Sheets
+ Cascade Sheets Style
+ View Answer
+Cascading Style Sheets
+16. Which CSS Property Sets The Stack Order Of An Element?
+ Z-index
+ Position
+ Overflow
+ Clip
+ View Answer
+Z-index
+17. If We Want Define Style For An Unique Element, Then Which Css Selector Will We Use ?
+ Id
+ Text
+ Class
+ Name
+ View Answer
+Id
+18. When We Write <img Src="img.png">, What "img.png" Inside Double Quote Implies?
+ Value
+ Element
+ Attribute
+ Operator
+ View Answer
+Value
+19. Which of the following option a rule consists of?
+ Selector
+ Tag
+ Declaration
+ Option 1 & 3
+ View Answer
+Option 1 & 3
+20. If a particular rule should never be overridden by another rule, the ____________ indication should be used.
+ !important!
+ @important
+ !important
+ important!
+ View Answer
+!important
+

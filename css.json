@@ -1,0 +1,93 @@
+[
+    
+       {
+        "Q.":"If we want define style for an unique element, then which css selector will we use ?",
+        "A":"Id",
+        "B":"text",
+        "C":"class",
+        "D":"name",
+        "Answer" :"Id [Option : A]"
+       },
+
+       {
+        "Q.":"If we don't want to allow a floating div to the left side of an element, which css property will we use ?",
+        "A":"margin",
+        "B":"clear",
+        "C":"float",
+        "D":"padding",
+        "Answer" :"clear [Option : B]"
+       },
+       
+       {
+        "Q.":"Suppose we want to arragnge five nos. of DIVs so that DIV4 is placed above DIV1. Now, which css property will we use to control the order of stack?",
+        "A":"d-index",
+        "B":"s-index",
+        "C":"x-index",
+        "D":"z-index",
+        "Answer" :" z-index [Option : D]"
+       },
+
+       {
+        "Q.":"Can we align a Block element by setting the left and right margins ?",
+        "A":"Yes",
+        "B":"Not Possible",
+        "Answer" :" Not Possible [Option : B]"
+       },
+       
+
+       {
+        "Q.":"If we want to wrap a block of text around an image, which css property will we use ?",
+        "A":"wrap",
+        "B":"push",
+        "C":"float",
+        "D":"align",
+        "Answer" :" float [Option : C]"
+       },
+       
+
+       {
+        "Q.":"Can we define the text direction via css property ?",
+        "A":"Yes",
+        "B":"No, we can't",
+       
+        "Answer" :" Yes, we can [Option : A]"
+       },
+       
+       {
+        "Q.":"Is it possible to declare font-weight, font-face & font-size by using ONLY ONE css propery ?",
+        "A":"Yes, it's possible",
+        "B":"No, not possible",
+       
+        "Answer" :" Yes, it's possible [Option : A]"
+       },
+      
+      
+       {
+        "Q.":"If we want to show an Arrow as cursor, then which value we will use ?",
+        "A":"pointer",
+        "B":"default",
+        "C":"arrow",
+        "D":"arr",
+        "Answer" :" default [Option : B]"
+       },
+
+       {
+        "Q.":"If we want to use a nice looking green dotted border around an image, which css property will we use?",
+        "A":"border-color",
+        "B":"border-decoration",
+        "C":"border-style",
+        "D":"border-line",
+        "Answer" :" border-style [Option : C]"
+       },
+      
+       {
+        "Q.":"Which of the following properties will we use to display border around a cell without any content ?",
+        "A":"empty-cell",
+        "B":"blank-cell",
+        "C":"noncontent-cell",
+        "D":"void-cell",
+        "Answer" :"  empty-cell [Option : A]"
+       }
+      
+    ]
+       
