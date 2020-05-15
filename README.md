@@ -25,7 +25,7 @@ npm start
 👤 **Shashwat Mishra**
 
 * Github: [@ampsteric](https://github.com/ampsteric)
-* LinkedIn: [@Shashwat Mishra](https://linkedin.com/in/Shashwat Mishra)
+* LinkedIn: [@Shashwat Mishra](https://linkedin.com/in/ShashwatMishra)
 
 ## 🤝 Contributing
 
