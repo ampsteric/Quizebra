@@ -11,7 +11,7 @@
 ## Usage
 
 ```sh
-/api/${language_name}}e
+/api/${language_name}
 ```
 
 ## Run tests
@@ -24,7 +24,7 @@ npm start
 
 👤 **Shashwat Mishra**
 
-* Github: [@ampstericcc](https://github.com/ampstericcc)
+* Github: [@ampsteric](https://github.com/ampsteric)
 * LinkedIn: [@Shashwat Mishra](https://linkedin.com/in/Shashwat Mishra)
 
 ## 🤝 Contributing
